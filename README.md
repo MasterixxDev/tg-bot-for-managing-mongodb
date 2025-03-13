@@ -1,4 +1,4 @@
-[![clash royale](https://img.shields.io/badge/Clash%20Royale-1.9.2-brightred.svg?style=flat")]
+[![telebot documentation]("https://pytba.readthedocs.io/en/latest/")]
 
 open source telegram bot with lightweight library telebot, suitable for use and you can also add your own commands.
 
