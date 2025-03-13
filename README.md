@@ -1,4 +1,4 @@
-[![telebot documentation]("https://pytba.readthedocs.io/en/latest/")]
+[![telebot documentation](https://pytba.readthedocs.io/en/latest/")]
 
 open source telegram bot with lightweight library telebot, suitable for use and you can also add your own commands.
 
